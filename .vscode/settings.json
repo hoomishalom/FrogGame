@@ -1,0 +1,12 @@
+{
+	"cSpell.ignoreWords": ["Platformer"],
+	"cSpell.words": [
+		"blit",
+		"collidepoint",
+		"devider",
+		"KEYDOWN",
+		"MOUSEBUTTONDOWN",
+		"mpos",
+		"topleft"
+	]
+}
